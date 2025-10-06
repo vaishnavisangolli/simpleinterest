@@ -1,0 +1,2 @@
+# simpleinterest
+calculates simpleinterest
